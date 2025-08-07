@@ -1,5 +1,5 @@
 export default {
-  token: "YOUR_BOT_TOKEN_HERE",
+  token: "MTI0MTc3NzgyNDg2ODcyODg0Mg.G-EwK.LFXCNsys-E6i3AMBQdHnyonXzpuejCNviRfC4",
   
   lavalink: {
     nodes: [
@@ -43,4 +43,5 @@ export default {
   ],
   
   activityRotationInterval: 30000, 
+
 };
